@@ -13,8 +13,8 @@ public class variables {
         System.out.println("Мой рост составляет : " + height);
         System.out.println("Я изучаю Java : " + islearningjava);
         System.out.println("В следющем году мне будет  : " + nextYearAge);
-        System.out.println(7/2);
-        System.out.println(7.0/2);
-        System.out.println(7%2);
+        System.out.println(7/2);                 /// деление
+        System.out.println(7.0/2);               /// деление дробных чисел
+        System.out.println(7%2);                 /// деление и вывод остатка
     }
 }
